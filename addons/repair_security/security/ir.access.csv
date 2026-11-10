@@ -1,0 +1,7 @@
+id,name,model_id,group_id/id,operation,domain
+access_repair_user,Repair user,repair.order,repair_security.group_repair_user,ru,
+access_repair_manager,Repair manager,repair.order,repair_security.group_repair_manager,crud,
+access_repair_tag_user,Repair Tags user,repair.tags,repair_security.group_repair_user,r,
+access_repair_tag_manager,Repair Tags user,repair.tags,repair_security.group_repair_manager,crud,
+access_account_tax_user,account.tax,account.tax,repair_security.group_repair_user,r,
+access_account_tax_manager,account.tax,account.tax,repair_security.group_repair_manager,r,
